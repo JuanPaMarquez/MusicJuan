@@ -92,10 +92,10 @@ const allSongs = [
   },
   {
     id: 12,
-    title: "Camper Cat",
-    artist: "Rafael",
-    duration: "0:21",
-    src: "https://s3.amazonaws.com/org.freecodecamp.mp3-player-project/camper-cat.mp3",
+    title: "Way Maker",
+    artist: "Spanish",
+    duration: "7:28",
+    src: "https://public.dm.files.1drv.com/y4m-aH27GqFIb_-TeFNt8XAKSLOaXCmJi3lXCJYYt6rDwYg9GLR8ug_kwOx1Yjw7lK7bslgMhvJKhmXKIZ6rM-XbA9KyAVQA-UIRU8IPBuJJsRBtZUhJFxSdM-DIYiV17QvlKe9uBncsgqLXdC8TZBuM05oMal4BqM6Qy15b7zoKFt5ZROq0ozESuKycPTCRKsl0hDXJatI4jmM0tRu8fHERWquDLaducwHae0XogRriLk?AVOverride=1",
   },
   {
     id: 13,
